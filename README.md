@@ -25,9 +25,10 @@ Handle any potential errors during the transcribing process. If the audio is not
 
 ## Program:
 ```
-# Name: PRAKASH P
-# Ref.no: 212221040073
-
+DEVELOPED BY: P. PRAKASH
+              212221040126
+```
+```
 import speech_recognition as sr
 
 # Assign a string variable "file" with the name of the audio file that you want to transcribe.
